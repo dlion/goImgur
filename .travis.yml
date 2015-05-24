@@ -11,4 +11,4 @@ install:
     - go get github.com/dlion/goImgur
 
 script:
-    - go test -v ./..
+    - go test -v ./
