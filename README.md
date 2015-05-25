@@ -1,4 +1,4 @@
-# goImgur
+# goImgur [![Build Status](https://travis-ci.org/dlion/goImgur.svg?branch=master)](https://travis-ci.org/dlion/goImgur)
 
 > A simple library to upload an image on [imgur](https://imgur.com)
 
